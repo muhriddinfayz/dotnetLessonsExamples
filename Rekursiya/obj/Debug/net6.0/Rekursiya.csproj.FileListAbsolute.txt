@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\dotnet lessons\Rekursiya\bin\Debug\net6.0\Rekursiya.exe
+C:\Users\Администратор\Desktop\dotnet lessons\Rekursiya\bin\Debug\net6.0\Rekursiya.deps.json
+C:\Users\Администратор\Desktop\dotnet lessons\Rekursiya\bin\Debug\net6.0\Rekursiya.runtimeconfig.json
+C:\Users\Администратор\Desktop\dotnet lessons\Rekursiya\bin\Debug\net6.0\Rekursiya.dll
+C:\Users\Администратор\Desktop\dotnet lessons\Rekursiya\bin\Debug\net6.0\ref\Rekursiya.dll
+C:\Users\Администратор\Desktop\dotnet lessons\Rekursiya\bin\Debug\net6.0\Rekursiya.pdb
+C:\Users\Администратор\Desktop\dotnet lessons\Rekursiya\obj\Debug\net6.0\Rekursiya.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\dotnet lessons\Rekursiya\obj\Debug\net6.0\Rekursiya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\dotnet lessons\Rekursiya\obj\Debug\net6.0\Rekursiya.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\dotnet lessons\Rekursiya\obj\Debug\net6.0\Rekursiya.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\dotnet lessons\Rekursiya\obj\Debug\net6.0\Rekursiya.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\dotnet lessons\Rekursiya\obj\Debug\net6.0\Rekursiya.dll
+C:\Users\Администратор\Desktop\dotnet lessons\Rekursiya\obj\Debug\net6.0\ref\Rekursiya.dll
+C:\Users\Администратор\Desktop\dotnet lessons\Rekursiya\obj\Debug\net6.0\Rekursiya.pdb
+C:\Users\Администратор\Desktop\dotnet lessons\Rekursiya\obj\Debug\net6.0\Rekursiya.genruntimeconfig.cache
